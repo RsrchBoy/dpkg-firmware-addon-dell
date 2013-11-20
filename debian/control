@@ -1,0 +1,18 @@
+Source: firmware-addon-dell
+Section: admin
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Michael Brown <Michael_E_Brown@dell.com>
+Build-Depends: debhelper (>= 9), python (>= 2.6.6-3~), python-libsmbios, firmware-tools
+Standards-Version: 3.9.4
+Homepage: http://linux.dell.com/firmware-tools
+X-Python-Version: >= 2.2
+
+Package: firmware-addon-dell
+Architecture: all
+Depends: ${python:Depends}, firmware-tools, smbios-utils | libsmbios-bin, ${misc:Depends}
+Description: firmware-tools plugin to handle BIOS/Firmware for Dell systems
+ The firmware-addon-dell package provides plugins to firmware-tools which enable
+ BIOS updates for Dell system, plus pulls in standard inventory modules
+ applicable to most Dell systems.
+ 

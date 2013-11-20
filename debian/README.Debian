@@ -1,0 +1,19 @@
+firmware-addon-dell for Ubuntu
+==============================
+
+This package can be used to locate and install Dell's firmware updates.
+
+To take advantage of it, you need to add the following line to your
+/etc/apt/sources.list:
+
+ deb http://linux.dell.com/repo cross-distro dell-firmware
+
+Install its GPG key:
+
+ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 5E3D7775
+
+Then you can install available firmware by running:
+
+ sudo apt-get install $(bootstrap_firmware -a)
+
+ -- Stefano Rivera <stefanor@ubuntu.com>  Sat, 10 Jul 2010 18:19:11 +0200
