@@ -1,3 +1,13 @@
+firmware-addon-dell (2.2.9-0ubuntu2.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * ...the better to build in our ppa.
+  * drop our hard dependency on firmware-tools, as this was bringing in
+    firmware-tools-gui, soooooo unnecessary (and unwanted!) on
+    headless/GUI-less boxes.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Thu, 19 Jun 2014 13:04:35 -0700
+
 firmware-addon-dell (2.2.9-0ubuntu2) trusty; urgency=low
 
   * Convert to minimal dh sequencer.
