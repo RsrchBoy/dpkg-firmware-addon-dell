@@ -1,0 +1,2163 @@
+commit 42df4bc6a499dd72d7a45e3d563b5dde774d9557
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 25 13:39:37 2010 -0500
+
+    version bump
+
+commit b8444b47c2929925d5fc1308963a25e757a3bf39
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 25 13:39:21 2010 -0500
+
+    use backwards compat generator expression.
+
+commit 3478814ab54d0818f297f884aeccedbb575abae9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 15:46:10 2010 -0500
+
+    version bump
+
+commit 73f6954945d4f9a2128c2de3f8738d035eb7f2d8
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 15:45:58 2010 -0500
+
+    more sane way of replacing vars
+
+commit c4b8929477ca2429c036de88fffc4c0c8a1af2d8
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 14:06:50 2010 -0500
+
+    version bump
+
+commit 55d1f88c65c6745bbf3ba01945fa7c227efce478
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 14:06:37 2010 -0500
+
+    sync buildsystem with firmwaretools
+
+commit d0e3557a405748e0c562ba3cfb9043dea1024b5e
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:48:04 2010 -0500
+
+    remove unused makefile targets
+
+commit cde1750cc17db19c011c7b68a006c4bf3a6dc3e2
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:44:06 2010 -0500
+
+    update release script
+
+commit 0ecf07f05d40707a7b835ceb696e213ec8740541
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:43:10 2010 -0500
+
+    version bump
+
+commit fab6c7b0d0d9c2eb41c0957c3742af5ecdcdba35
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:41:42 2010 -0500
+
+    sync makefile with firmware-tools
+
+commit 6b7c5e2260de4a2f343ca02e1ce5f00ff831f91f
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:21:32 2010 -0500
+
+    dont disable dellbios plugin for non-root to allow mock unit tests, etc
+
+commit cb2b43c8818ff04b3f0d13556254ec95e13105b9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:09:32 2010 -0500
+
+    update release script
+
+commit 8fd591ced0bb01ad36e6f55fff93a604ac638f95
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 13:09:30 2010 -0500
+
+    update release script
+
+commit 758a98131b4a7e555f28105d8e29d125cda0e8f3
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 24 12:51:23 2010 -0500
+
+    version bump
+
+commit 2e9bc7bc3b2119acb98affefcef95450326fa40d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Apr 8 13:59:06 2010 -0500
+
+    version bump
+
+commit 0e648e290ad46e7fba045273ef975618dc126dca
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Apr 8 13:58:48 2010 -0500
+
+    remove obsolete constructs
+
+commit c19d2c3489a2bb099a0d0986ebcca3e0ef460fb8
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Apr 8 13:58:18 2010 -0500
+
+    dont try to flush handlers that are not set
+
+commit abbf9e1a41fe1e26a557422bc9f1d6da89d08015
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Mar 30 16:22:06 2010 -0500
+
+    use correct tar directory
+
+commit b89ad1ca586096de13fd641f8c00881f672575b8
+Merge: 3755b41... 6cc4637...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Mar 9 14:01:10 2010 -0600
+
+    fix merge conflict
+
+commit 3755b4199bd459a690ab56ae0755a22d13b5b531
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Mar 9 13:59:19 2010 -0600
+
+    update automake version, add bz tarball and switch to it for rpm.
+
+commit d5950b25478819c9311aab1f2d00797534ad0510
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 14:37:05 2010 -0600
+
+    add required autotools files
+
+commit 662fb972926be37d1dacee14e8ad4b1eb68cbeef
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 14:36:55 2010 -0600
+
+    streamline configure.ac to be more inline with libsmbios
+
+commit c48c711c07078438076780b6ce679888ed919846
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 14:36:30 2010 -0600
+
+    use standard autogen.sh
+
+commit 57bd8190a6a6e48677244649a87c6613b733eb8b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 14:36:16 2010 -0600
+
+    update makefile to work with newer git versions
+
+commit 630a62929cdfba11c4aa25099bfa646f07c492cd
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 14:04:45 2010 -0600
+
+    version bump
+
+commit 41416cf03806494584dbd55637da56b41de8acae
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 14:04:16 2010 -0600
+
+    catch invalid rbu header and re-raise
+
+commit 8e0304938b59d5e7e9bdcd74ae3852d8b1e03cfe
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 13:13:31 2010 -0600
+
+    fix for api difference in lower level
+
+commit c782a96168dfa8060c8093ae16262723cc7e08e9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Mar 5 13:13:16 2010 -0600
+
+    dont bail on bad return from wineprefixcreate
+
+commit 6cc4637553e5b1e3054b822b1529038a4d73ab11
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 19 16:18:15 2009 -0500
+
+    version bump
+
+commit 71800a95c1321357af58d2e4a3e07f92a2a414ec
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri May 15 17:37:51 2009 -0500
+
+    add versioned br for firmware-tools
+
+commit 87b617e458a7b895a7195937692e69b1fead0ebc
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Thu May 14 22:20:16 2009 -0500
+
+    RPM spec: use mkdir -p in %install
+
+commit 5177afbe40f520d3e70a4118d80425cafaf03883
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Dec 16 01:42:37 2008 -0600
+
+    we now require python-smbios for install and build time.
+
+commit 444aad94dbf8ea0290218044e4d6cafea4315d97
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 17:39:20 2008 -0600
+
+    remove useless rpm-release variable. remove yum buildreq since we no longer supply yum plugin.
+
+commit 2e7fe755463165de31d852222d4a5084aa3c5744
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 14:41:04 2008 -0600
+
+    remove useless variable, release_name, that wont ever change.
+
+commit c6df18477db00a65edfaf94a89b3802a77915ceb
+Merge: 1a45ccf... a31f748...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 13:41:00 2008 -0600
+
+    Merge branch 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      add blacklist entries for GX620
+      another typo in var name.
+      add build service integration to make file.
+      fixup typo in var name.
+
+commit 1a45ccf7b09540be0eb6421a0e3c9d6f2a24b7ed
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 13:40:44 2008 -0600
+
+    fixup spec for version variable changes.
+
+commit 9c66fe881a13803f3a43a6f60b933f371d7ba3f1
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 13:38:48 2008 -0600
+
+    dont remove spec with 'make clean'
+
+commit 8261e5cf4f3852f60abf962b47d0908e9046c762
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 12:53:39 2008 -0600
+
+    remove biosHdr tests since these should now belong in libsmbios test suite.
+
+commit 6c61107b661efd700dbb16a8d4d2bf1d4f0cbc68
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 12:23:01 2008 -0600
+
+    update for new possible rbu hdr locations.
+
+commit 35fcb4557fba0d9b44c2023a975c957480a09998
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 12:22:43 2008 -0600
+
+    update to use libsmbios rbu hdr functions and system id functions.
+
+commit bdcbe0232cfaa1a3957c71194981b3d059e2950a
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Dec 15 12:22:01 2008 -0600
+
+    update buildsys to sync with new libsmbios features.
+
+commit 33b487196eb41187ac2e310a33bf0a4d8fe9f864
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Nov 17 20:33:49 2008 -0600
+
+    remove sysid yum plugin
+
+commit a31f748275289022c2983c58cd97f6c45ea06275
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Oct 24 23:11:46 2008 -0500
+
+    add blacklist entries for GX620
+
+commit b4226bb7da0809c0d282fbfc18e80de48c05051b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Oct 24 22:37:33 2008 -0500
+
+    another typo in var name.
+
+commit e28da18f3b322f378b9e475e8f7a5bcbece147b1
+Merge: e321d2c... 7fb6824...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Oct 24 22:32:51 2008 -0500
+
+    Merge branch 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      remove unneeded autobuild file
+      version bump
+      fix missing Requires, was accidentally deleted with an obsolete comment.
+      suse build service fixes. version bump. add susebuild upload target. fixup release script.
+
+commit e321d2c820f9d00d3e0936a0ef0f21212530e9df
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Oct 24 22:30:43 2008 -0500
+
+    add build service integration to make file.
+
+commit a4e4a19c087d94c95659498aa83c40580a64f357
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Oct 24 22:25:19 2008 -0500
+
+    fixup typo in var name.
+
+commit 7fb6824cc32a1213487e176dc97cccafd37566ab
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Oct 14 17:39:44 2008 -0500
+
+    remove unneeded autobuild file
+
+commit 759819a536657822d170e1bd7a1fae1f0cd85814
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Oct 14 16:50:46 2008 -0500
+
+    version bump
+
+commit 53b05dd1f7aec5f4edb082b3c4c0c517715a8270
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Oct 14 16:50:35 2008 -0500
+
+    fix missing Requires, was accidentally deleted with an obsolete comment.
+
+commit 5bee420931bacee70383b062b11535846beaf484
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Sep 11 18:22:20 2008 -0500
+
+    suse build service fixes. version bump. add susebuild upload target. fixup release script.
+
+commit ebb627e6ed3839ed4c2b91291f6b572402705844
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Aug 27 10:32:22 2008 -0500
+
+    add suse build service upload script
+
+commit 9adc254adeaed4d94cadc5173b213d8215e6cb91
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 26 18:02:45 2008 -0500
+
+    bugfix updates for Makefile-std
+
+commit 90cc4e2e4adc84830d374e722864ebea9cf08543
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Aug 19 16:52:42 2008 -0500
+
+    update to more modern prereq, smbios-utils, which obsoleted libsmbios-bin a while back.
+
+commit be5e16ea94a5a17398e6f93aa5075810090485a1
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 18 17:36:32 2008 -0500
+
+    allow rpm build from git-generated archive.
+
+commit 3c8f7eb6b4b555b218f1ac0adb9f4be43039c70e
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 18 17:00:46 2008 -0500
+
+    more Makefile-std standardizations.
+
+commit 554e5ef038c5c8e39dde64ab8dea554c2fc8b5a7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 18 16:54:45 2008 -0500
+
+    start trying to standardize Makefile-std
+
+commit d2a20020ec0308d0289ea3b1469c743c6e8b2894
+Merge: de583d7... 2e61153...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 18 15:45:51 2008 -0500
+
+    Merge branch 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      update mock build list for latest list of supported distros.
+      fix license tag
+
+commit de583d7a6b41b2e1e4b7c17e6ff1a4f4553552e0
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 18 15:45:43 2008 -0500
+
+    make more compatible with suse build service.
+
+commit 2e6115301aabc1ddbf590dd9b927524339965019
+Merge: af9fd5a... 152026e...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 14 10:58:41 2008 -0500
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      add more blacklist entries.
+      add ability to blacklist specific bios versions.
+
+commit af9fd5ab935867f048dea98c847285949f244a88
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 14 10:58:11 2008 -0500
+
+    update mock build list for latest list of supported distros.
+
+commit f0de936af8b17741d30b4b86d7a04f2da22e1bf7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 14 10:57:40 2008 -0500
+
+    fix license tag
+
+commit 152026e469970c5aa742b9d13a2f94450373450a
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Apr 1 17:29:55 2008 -0500
+
+    add more blacklist entries.
+
+commit e8a220dda858159d6536068e080edb039ba41c57
+Merge: 3a660a6... ec38a04...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Apr 1 17:23:50 2008 -0500
+
+    Merge branch 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      fixup spec to remove old reqs.
+      fixup build script to use upload overrides.
+      version bump
+      version bump
+      change to new inventory_hook api and populate system ID in base obj. fixup unit tests.
+      remove compat_subprocess because it has been moved to firmwaretools.
+      set system id for base when we inventory the system.
+      convert to inventory_hook and clean up unneeded bmc bootstrap.
+      fixup suse install.
+      whitespace cleanup
+      version bump
+
+commit 3a660a6dc5a5b449d053a29425a9e441653756d6
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Apr 1 13:46:34 2008 -0500
+
+    add ability to blacklist specific bios versions.
+
+commit ec38a04eab832e8bc12b8732d263f227edf22da9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Mar 17 00:38:58 2008 -0500
+
+    fixup spec to remove old reqs.
+
+commit a3647062ecdbf306d85288e6ec86a13c9692025d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Mar 17 00:38:44 2008 -0500
+
+    fixup build script to use upload overrides.
+
+commit cd6aad330d3997c4b6c2b133cb295f5f95bcd371
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Mar 12 10:45:33 2008 -0500
+
+    version bump
+
+commit 89d892eeb86d3a0c7a0b0595c5603c687606d98e
+Merge: 384f848... 8035538...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Mar 12 10:45:15 2008 -0500
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      version bump
+      change to new inventory_hook api and populate system ID in base obj. fixup unit tests.
+      remove compat_subprocess because it has been moved to firmwaretools.
+      set system id for base when we inventory the system.
+      convert to inventory_hook and clean up unneeded bmc bootstrap.
+
+commit 80355387569472bfa7883fe10b9553e16f1241df
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Mar 11 21:39:48 2008 -0500
+
+    version bump
+
+commit 72428fc1e00dcaf67ebcdff77ac8dfc473dfacf6
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Mar 11 20:26:56 2008 -0500
+
+    change to new inventory_hook api and populate system ID in base obj. fixup unit tests.
+
+commit 5fb692a88635d48342f4d7f801d0977357d5c72b
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Mar 11 20:08:50 2008 -0500
+
+    remove compat_subprocess because it has been moved to firmwaretools.
+
+commit 1f3aaab404949f650361acfac5c294e72e8f802f
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Mar 11 20:08:32 2008 -0500
+
+    set system id for base when we inventory the system.
+
+commit 681ba6ae63102e7369be68c2b1acb075373a5b1b
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Mar 11 19:31:35 2008 -0500
+
+    convert to inventory_hook and clean up unneeded bmc bootstrap.
+
+commit 384f8485adf6fded4f9cea27ed3fab9818e74979
+Merge: 0acb206... 6138978...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Mar 5 16:59:10 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      whitespace cleanup
+
+commit 0acb206589a4abae0e3029fb02fd1e1f9a3a929f
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Mar 5 16:58:53 2008 -0600
+
+    fixup suse install.
+
+commit 613897872b676721fdbb332b47f80f379f9e7f8f
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Feb 28 10:52:10 2008 -0600
+
+    whitespace cleanup
+
+commit dc81c1eea48d6ce47cf8f5d287591835249748cb
+Merge: 4c5a305... 07d8efc...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 27 13:37:04 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      fixup cut-n-paste error.
+      remove svm module as it belongs in dell-dup module and is already present there.
+
+commit 07d8efcebda72bc18b597f81cf5654439479359c
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 27 13:32:54 2008 -0600
+
+    fixup cut-n-paste error.
+
+commit a94f8b3c4eb1c450e363958f2fdcf77e3dce1eeb
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Feb 25 12:59:40 2008 -0600
+
+    remove svm module as it belongs in dell-dup module and is already present there.
+
+commit 4c5a3055e5f4c4a1beac5d7a2e4d284771774c40
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 20 12:48:58 2008 -0600
+
+    version bump
+
+commit 4e303937fff43a187f20af505f27dfa90e1b2069
+Merge: c0db056... b93cca4...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 20 12:46:19 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      another try at reliable multithreaded DUP extract.
+
+commit b93cca4fc5968efbb4904d180a8a0932e1cbb769
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Feb 19 21:03:57 2008 -0600
+
+    another try at reliable multithreaded DUP extract.
+
+commit c0db0564cebd38092fba592a22ffbe86c7ce2004
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Feb 19 17:25:34 2008 -0600
+
+    version bump
+
+commit 4c7c26ca917df712dbc93bf5bede09ce6d6559d2
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Feb 19 13:51:48 2008 -0600
+
+    attempt to fix hanging tar problem.
+
+commit 192d2fb808406e5838087740e7037fd7d382ed25
+Merge: f2b41da... 6647a2f...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Feb 19 11:23:41 2008 -0600
+
+    fix merge conflicts.
+
+commit 6647a2f58077216f8bb5f3db4a4ce511180a2239
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Feb 19 11:09:22 2008 -0600
+
+    add autobuild compile for sles
+
+commit 28f73868fb01aecd4e0cb29a8234beb05c65ccd2
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Feb 19 00:58:10 2008 -0600
+
+    pass args to pci bootstrap.
+
+commit 9543fc4845de387319512defd8a415426dc2faab
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Feb 19 00:56:44 2008 -0600
+
+    document args to bootstrap.
+
+commit f2b41dac858e2176ac1bbfe4b19884c10c53d8b2
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Feb 18 18:11:54 2008 -0600
+
+    version bump
+
+commit e9149112ab7e1e52609fec24f5a3adb3e4c02373
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Feb 18 16:32:15 2008 -0600
+
+    add support to build on sles.
+
+commit 98952d423dd493f001bf53b8a39667eedbeffa2c
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Feb 15 02:35:25 2008 -0600
+
+    register bios extract to run first.
+
+commit b73816bc21a6530975315fc01833dfe62a111a05
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 13 15:53:50 2008 -0600
+
+    version bump
+
+commit e13071cf2981d65ef152a96b2d96eca2bfb16ac9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 13 15:50:40 2008 -0600
+
+    tweak svm inventory generation to handle non-pci devices
+
+commit ace24dae13e230ae30c9c74323ba2fe73972ac2b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 13 09:21:09 2008 -0600
+
+    version bump
+
+commit 5d3a5fe6d8fcf245fce12b146813622c3447cb30
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Tue Feb 12 09:38:58 2008 -0600
+
+    fix small traceback when extracting windows driver dups with malformed sysid fields in package.xml.
+
+commit 892b548c5c0f3f8e2f06fb261a323e78dae109de
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Feb 11 12:52:32 2008 -0600
+
+    update some system id -> shortname mappings.
+
+commit 40ac100285680f1f842e313a511dfe1820d51d4e
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Feb 11 10:51:15 2008 -0600
+
+    accept optional dir arg to buildrpm_ini_hook so builder can inspect package.
+
+commit 23eda80244193c57649daa6e085f8a29cfaaaf02
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Feb 11 10:35:42 2008 -0600
+
+    make shortname object a singleton. Dont add --id2name-config if it already exists.
+
+commit 3577406172c5777c1b697359e222ce1d0f3cc8ef
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Feb 8 15:28:04 2008 -0600
+
+    add args for inventory/bootstrap generators.
+
+commit 0c4ae7d02111e02d71a344a4376cc7aa268446a2
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Feb 7 00:01:24 2008 -0600
+
+    not all exception class defs need protection.
+
+commit 197accd4bc30ff752e38cdd1037490238a3da20c
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Wed Feb 6 23:57:23 2008 -0600
+
+    allow extract_common to be used by non-extract modules.
+
+commit ac16f559aecd7b6f87edb12fd658000b1d4be52e
+Merge: 5038f69... 52dfed5...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Wed Feb 6 21:36:12 2008 -0600
+
+    Merge branch 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      version bump
+      remove bogus/unneeded import
+
+commit 52dfed5c713ee78086ae1e4fb9826d2f92299a85
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 6 14:01:30 2008 -0600
+
+    version bump
+
+commit 9259b37c3aed05d24d5a994260c17a7564750994
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Feb 6 13:42:53 2008 -0600
+
+    remove bogus/unneeded import
+
+commit 5038f6997dc0c57c7b2e2fdcf34c7121fb3e05fd
+Merge: 1be5849... 27d83cf...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Feb 4 22:32:47 2008 -0600
+
+    Merge branch 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      return CDATA nodes as text as well.
+
+commit 27d83cfba2e8df8fcba42bb19965fadb9b1e361b
+Merge: fe6bbbd... b409902...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Feb 4 17:10:35 2008 -0600
+
+    Merge branch 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://michael_e_brown@mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell: (39 commits)
+      version bump
+      fix case typo
+      factor out id2name mapping so it can be used by other modules.
+      install bios rpm files in dell/bios vs dell/.
+      comments +  extractor for raw linux .bin files (no SEZ wrapper)
+      small updates to bios spec file.
+      remove libexec stuff since dell-repo-tools is now back to hold that sort of stuff.
+      fixup our precision dup extract to do our own extraction rather than calling possibly broken builtin extract.
+      typo fix
+      version bump
+      remove i386 buildrequires since we no longer carry fakeroot
+      remove our fakeroot lib and just require user to install i386 fakeroot.
+      version bump. fix buildreq so it works on i386 distro.
+      fixes for distcheck.
+      manually build fakeroot-32.so because libtool cant get it right when RPM overrides my cflags.
+      forgot to actually copy hdr for bioFromLinuxDup2().
+      force cflags. add buildrequires.
+      add fakeroot and extractor for linux precision dups.
+      fix syntax error
+      version bump
+      ...
+
+commit fe6bbbd1a66515f5ce03b642e422b54b1c8004c6
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Feb 4 17:08:33 2008 -0600
+
+    return CDATA nodes as text as well.
+
+commit 1be584987d8a53af6af7cd7c3496cb381757e27b
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Feb 3 00:53:51 2008 -0600
+
+    dont run DUPs, extract them manually with tar/gzip.
+
+commit b4099025897d633b77a0c16b9e3513f11e366556
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sat Feb 2 16:39:51 2008 -0600
+
+    version bump
+
+commit 19cc431e1d4b470d765c778a51bc3039db3bc0dd
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Feb 2 15:01:09 2008 -0600
+
+    fix case typo
+
+commit 300d05687e73ca22403e0924d41f387a4083b8df
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Feb 2 13:32:08 2008 -0600
+
+    factor out id2name mapping so it can be used by other modules.
+
+commit 94babe17eb572adee235af3a1dad4a1473707e30
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Feb 2 13:31:19 2008 -0600
+
+    install bios rpm files in dell/bios vs dell/.
+
+commit 08beb7130d423d284e3ee8f1bbd3018c44194086
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 19:44:13 2008 -0600
+
+    comments +  extractor for raw linux .bin files (no SEZ wrapper)
+
+commit 6435b26c6e7322dba85d7501d2f4b634a5406ebc
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 19:20:59 2008 -0600
+
+    small updates to bios spec file.
+
+commit fcbb0899ff74b0c57e4da095bb6b5c054f2270a0
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 19:13:32 2008 -0600
+
+    remove libexec stuff since dell-repo-tools is now back to hold that sort of stuff.
+
+commit 3948b429f6021963b6799081c5b3856fa1195eb4
+Merge: f6f4c56... 8c36b61...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 19:10:59 2008 -0600
+
+    Merge branch 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of ssh://mock.linuxdev.us.dell.com/var/ftp/pub/Applications/git/firmware-addon-dell:
+      version bump
+      remove i386 buildrequires since we no longer carry fakeroot
+      version bump. fix buildreq so it works on i386 distro.
+
+commit f6f4c56f8f43f465a26b2f2a9ea187262b244d47
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 19:10:19 2008 -0600
+
+    fixup our precision dup extract to do our own extraction rather than calling possibly broken builtin extract.
+
+commit 8c36b61a0efe0198b285af5fa508ad6ce408c22a
+Merge: eac53cd... e97577d...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Jan 31 08:15:23 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      typo fix
+
+commit e97577d835aa501bc618d91e35e7f6e92af0c387
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 08:14:49 2008 -0600
+
+    typo fix
+
+commit eac53cd9bd24bb8e83af61922a1ff8a2bcc05d65
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Jan 31 08:10:40 2008 -0600
+
+    version bump
+
+commit 8aaa9e65ccc0dbe47e9a575325fa70834e28e9a5
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Jan 31 07:59:12 2008 -0600
+
+    remove i386 buildrequires since we no longer carry fakeroot
+
+commit 75de1cb7fce2d9f7cb5d8217af2ac9811cc118d5
+Merge: 3bad1ab... 82dcdff...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Jan 31 07:57:10 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      remove our fakeroot lib and just require user to install i386 fakeroot.
+
+commit 82dcdff7fdd558dcfade576ba0dee7ddec1af7da
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 07:56:32 2008 -0600
+
+    remove our fakeroot lib and just require user to install i386 fakeroot.
+
+commit 3bad1ab1640b3871160c05e7d29fccb96e118ca6
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Jan 31 05:29:54 2008 -0600
+
+    version bump. fix buildreq so it works on i386 distro.
+
+commit 277f48499f568eca68ff90fadd766b8a888bea68
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 00:58:22 2008 -0600
+
+    fixes for distcheck.
+
+commit 44e8e951751e43d2fae2524ddb36ad48de7c7d01
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 00:49:26 2008 -0600
+
+    manually build fakeroot-32.so because libtool cant get it right when RPM overrides my cflags.
+
+commit b210821145f8b14e6188b985fccbf3cffc15f2a6
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 31 00:33:11 2008 -0600
+
+    forgot to actually copy hdr for bioFromLinuxDup2().
+
+commit 03744f7c80c2fc09adebe8cfe61a3a392cd95163
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Wed Jan 30 23:47:44 2008 -0600
+
+    force cflags. add buildrequires.
+
+commit f5c010e7ec61f4af8ff76352a35f5c0b38c0b711
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Wed Jan 30 23:38:29 2008 -0600
+
+    add fakeroot and extractor for linux precision dups.
+
+commit 161f78de3845e3119b072c6cda552a723861c919
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 22:07:40 2008 -0600
+
+    fix syntax error
+
+commit 8420a223351cc0eec4d3f1663efbd1d8f4d1d2f1
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 21:57:16 2008 -0600
+
+    version bump
+
+commit 6ec088ad040bbd0b1201fd59729b6da4d8d9474b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 21:50:14 2008 -0600
+
+    new-style bios version should have higher epoch than old-style.
+
+commit 807e8ca6ed155d9d4bd5d4494bcac2cf30bcce92
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 21:46:03 2008 -0600
+
+    use wildcards for file install so we dont have to rev spec as often.
+
+commit 4a98f2d75280cabf8a4bc057a515a4edcced8d53
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 21:44:42 2008 -0600
+
+    rename relnotes to relnotes.txt. add relnotes from dups.
+
+commit e5fb290ffd13feb1a37ba0f8c13413de78b5c7e1
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 19:50:33 2008 -0600
+
+    add pad() as a common func
+
+commit b55c68ed17e3977bbe55f121438cdcc5d41a4ca6
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 19:23:12 2008 -0600
+
+    more system id-> name mappings
+
+commit 65b89b7044386a137384617471f1ec23f120a1bf
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 18:24:22 2008 -0600
+
+    dont define shortname unless we have one.
+
+commit 18b756abf3a9ce7052a173a88e9dc2c6ca62035c
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 16:57:02 2008 -0600
+
+    install dell license file when extracting bios.
+
+commit 709b16c0dddb63cfc409d025f56f31d38abdb619
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 15:58:02 2008 -0600
+
+    add dell license for extracted BIOS images.
+
+commit e57b151197a6d827a4bc9e5f8f2361f9df256123
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 15:56:50 2008 -0600
+
+    ensure conf.helper_dat is always set to something.
+
+commit c0f55c6bd0a1b8a83662e8e6eda12ee22728231b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 30 15:56:23 2008 -0600
+
+    add dell license to rpm
+
+commit 9e8a8cf87e0c69f9b7d1a9b8cd8c72ebb39c87be
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 29 23:51:19 2008 -0600
+
+    comments. remove unneeded try/except since plugin is disabled early now when firmware-extract not installed.
+
+commit 610d7aec988ea8945ece8c5288852a3638e06472
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 29 23:50:55 2008 -0600
+
+    ensure epoch is part of provides
+
+commit 55dc465ba808d9172a9d33eabfd0787d2c255830
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 29 23:50:37 2008 -0600
+
+    dont block on reads in loggedCmd.
+
+commit bbb03ca82b83e056710f483611b2564106248896
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 29 21:35:58 2008 -0600
+
+    add rpm epoch code.
+
+commit 719fd145a964ce7596d7cee145c19548720ba8e4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 29 15:54:10 2008 -0600
+
+    new format for spec. build in values instead of --define.
+
+commit fdef3e71e18be0b2ab108f0098da5fdcaf8594e9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 29 12:19:43 2008 -0600
+
+    add bios spec file.
+
+commit b4eddd79cfe11ce936d93b2abba9c48fbdd56795
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 22:46:52 2008 -0600
+
+    copy text files to dir as well if they exist, for release notes.
+
+commit 75b97868dd81e7b9349d38683d83ea51c0e9a370
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 22:40:08 2008 -0600
+
+    properly handle windows dup package.xml. refactor code so both linux/win dup shares more code.
+
+commit 59f251d891173f75a29334950434295d18bab7a6
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 16:45:59 2008 -0600
+
+    add small message for start/end presetup of wine/freedos (only in verbose mode).
+
+commit d5e34adfe6d60a462231c10d5f577a7a2d4dd120
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:45:40 2008 -0600
+
+    remove dead lines.
+
+commit 713d0bfcaa94d08b52cbcfbe8fd13a1fcad1a7ee
+Merge: e3cbbc5... 2b1ffbd...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:45:05 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      make it work when firmware-extract not installed. tested.
+
+commit e3cbbc5c35dc14c8d2d4968cf88f4d7cd88b926e
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:44:43 2008 -0600
+
+    make sure we do official release from clean tree.
+
+commit 2b1ffbd6f8b73602b9cbf9dabd1bb1b38fda98cd
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:41:52 2008 -0600
+
+    make it work when firmware-extract not installed. tested.
+
+commit 7f99d7a45dfddf6c13a74716e825f258167e4207
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:27:45 2008 -0600
+
+    disable plugin if extract module not installed.
+
+commit 16980690e5fd7ab28958e5e2df448efbc275f6ca
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:27:35 2008 -0600
+
+    make yum plugin more bulletproof.
+
+commit 876684c1351df7134c23d95190b929bf6a038c86
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 14:27:22 2008 -0600
+
+    bump version
+
+commit ab57d1c9d755c2a3842661b49579398fd90eed0a
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 11:44:11 2008 -0600
+
+    update rpm release script
+
+commit 2478b300ee845f47a0572a31358e29abecaf7936
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 11:41:19 2008 -0600
+
+    fix tmp rmtree for real this time. tested.
+
+commit e1873d6275822cc7fec90c74682081a5a926fea4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Jan 28 11:31:37 2008 -0600
+
+    fix chmod calls in rmtree
+
+commit 548cd9e1072b1421162d71702dddfd4dbc3bfde6
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Jan 28 09:40:12 2008 -0600
+
+    move log linking to common.
+
+commit 7360a487011837ffe1d061189a2da66aa486f7c9
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 22:38:36 2008 -0600
+
+    fix command timeout exception taking different exception path.
+
+commit 31dbbac6177ffc17dc6bc802dc464f73ab8b5890
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 20:38:14 2008 -0600
+
+    split up child exit a little, give it time to cleanly exit before using big hammer. Ensure we wait() on child so we dont get zombies.
+
+commit 4aae66173712032e31ebd03d41450fb26f11885f
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 20:08:53 2008 -0600
+
+    fix timeout handling.
+
+commit 6c9cf1e48dd15b0c39326d13be9c3faa695ea395
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sun Jan 27 19:13:21 2008 -0600
+
+    remove refs to dosemu tarball.
+
+commit 739442bccef4c852e153f451e05d2513f81421ad
+Merge: 66dc436... da47e25...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sun Jan 27 19:07:43 2008 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      add dcopy extractor.
+      re-enable wine.
+      start adding dcopy extractor.
+      manually run first-part dosemu stuff.
+
+commit da47e25672ea5253c3caa293e7fa719ed24ce843
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 19:06:35 2008 -0600
+
+    add dcopy extractor.
+
+commit c4dd23c2f5c16d518f42d4a8a2ab3a3ee06aaa4e
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 16:31:47 2008 -0600
+
+    re-enable wine.
+
+commit b60f694d28b400f3e0c769d17c8ca97f69e6b330
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 11:12:50 2008 -0600
+
+    start adding dcopy extractor.
+
+commit 93e4f6c688ceb733d16885f5f7011a0dac7f67f0
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 02:27:37 2008 -0600
+
+    manually run first-part dosemu stuff.
+
+commit 66dc43611acbe98e65c34f1e7429601669161f97
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sun Jan 27 00:52:30 2008 -0600
+
+    workaround shutil bug.
+
+commit 8e1d2e9756b09d1cdc596e4b138159819f6ce57b
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sun Jan 27 00:26:51 2008 -0600
+
+    only setup wineprefix one time globally and then copy. should speed up things.
+
+commit df8a081c93cf74daa82d5ba802f2631e235b09e3
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 23:51:27 2008 -0600
+
+    dont exclude txt files.
+
+commit 65ba08ed4502a283c7cadac7349b4eb645f8d3b9
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 23:20:49 2008 -0600
+
+    fix wine extract: need to only pass filename, not full path or it wont find it.
+
+commit 5370a62421e6c499cfe4fe4421e78de2ae0ffc88
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 23:20:14 2008 -0600
+
+    dont try to chmod non files/dirs
+
+commit 961c91ea21dd643d0c0b54c5b69178707e4817b8
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sat Jan 26 16:54:49 2008 -0600
+
+    every wine instance should be separate.
+
+commit a8c34279755bb140dc64e069fccb73631b6c8739
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 13:22:36 2008 -0600
+
+    fix perms on libexec stuff.
+
+commit 9dbe65328fbbf8442fd9beaad09254ed5371c0af
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 13:09:56 2008 -0600
+
+    look in pkg libexec dir rather than top-level libexec dir.
+
+commit cece196a2e0894431ab2e7002bbd9e5766e115c8
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 13:02:22 2008 -0600
+
+    forgot LIBEXECDIR in install-data-hook... added.
+
+commit 5770ca25a2fad87aa27b561b096864af0f5a87b2
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sat Jan 26 12:46:35 2008 -0600
+
+    ensure we chmod files and dirs in temp dir before removing.
+
+commit e5b463894120fefc4779b3b3da0e41614b18dc5f
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 11:33:23 2008 -0600
+
+    deal with packages that have read-only files by fixing perms.
+
+commit 090d9919f43dcf6a16e72b17b85e7903610eab25
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 11:32:56 2008 -0600
+
+    fix error-path typo
+
+commit 7bc6231844651d05ec4cf06dd2dab4a4b4ca2877
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 02:57:51 2008 -0600
+
+    prevent races linking log files
+
+commit 16947769abae9b7ecdd864a23133515d797cd353
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 02:57:32 2008 -0600
+
+    add missing moduleLog
+
+commit 38d9d8f5e5f0d095f1da36c12b019a4afc6c6913
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 02:03:50 2008 -0600
+
+    dont propagate invalid header exceptions up.
+
+commit 6e92d9c1579fae359ee64316ceba43d68584c88f
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 01:24:34 2008 -0600
+
+    missing install modules.
+
+commit 7d6b00ea6080f0792d8c1d613b9a47254fd4517e
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 00:59:42 2008 -0600
+
+    add compat subprocess module for python 2.3 (RHEL4), and switch some stuff around to depend less on it.
+
+commit 075a53fd3cba3f638894d8ac4568e7fd890607d7
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Sat Jan 26 00:04:27 2008 -0600
+
+    firmware_tools_extract was renamed, fix.
+
+commit 646644603815b1b8442f9c36d9005ff04d0f4f64
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 23:52:22 2008 -0600
+
+    optionally register extractors that depend on external stuff that may not be there. split windows dup/installshield. fixup accidentally trying to parse nonexistent files. save logs.
+
+commit e6f9a3564b402abd0049ac2420407cc2cae78c2c
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 23:49:18 2008 -0600
+
+    fix variable typo in exception path.
+
+commit 56d32a22bc1486dbdaf4600ed477eb83cfd23164
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 23:48:33 2008 -0600
+
+    add LIBEXECDIR def so other modules can use it.
+
+commit 62b6d3b55b93c304d48737a39f9f77a385f3ebdc
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 23:48:06 2008 -0600
+
+    install libexec files.
+
+commit a4d2be11b78ac7fe5522a80a3464e36a3eb2af80
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 23:47:43 2008 -0600
+
+    fix LIBDIR, add LIBEXECDIR to replacement list.
+
+commit 4b29c1533743938468f0a302e079aba5f5d9f10b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Jan 25 17:29:29 2008 -0600
+
+    add blacklist, remove historical
+
+commit c9e69d8301187a9d802bb8432fac448e95afd3b9
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Jan 25 17:19:35 2008 -0600
+
+    add more bios extractors
+
+commit 0e3768308b21869ce184803833735e187dd9842f
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Jan 25 17:01:37 2008 -0600
+
+    more extractors
+
+commit 4701eed44a4be762e00466ebe2a2c8b6607e654c
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Jan 25 15:51:02 2008 -0600
+
+    add cmdline opt for id2name mapping.
+
+commit 21a46df6631fcc17a9fba0aaea1d2f5fbf57fbe2
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 01:52:16 2008 -0600
+
+    start pulling system shortname from the map.
+
+commit 05130a78972e4225cc6888873e17fa9590c09959
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 01:39:03 2008 -0600
+
+    fix bad variable subst.
+
+commit 8f8a47229d7d334bd8e0d2550adc5ab7ceb13084
+Merge: d47be91... 1f65707...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 01:37:57 2008 -0600
+
+    merge latest changes from upstream
+
+commit d47be919d4cc979a0395c935502b142822809340
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 01:35:47 2008 -0600
+
+    finish adding autotools.
+
+commit 2ca265d45f36aa1dd2ef4e07ea31778079a58708
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 01:35:22 2008 -0600
+
+    install-time replacement of variables (version, etc)
+
+commit 1d56bedfa94a95f047f9d43e490f6d28dc706d07
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 01:30:51 2008 -0600
+
+    initial convert to autotools
+
+commit 2191d4f688e0bc30b6df5222ff02fd27c8c0c51f
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 00:48:25 2008 -0600
+
+    starting to get extract working and creation of package.ini.
+
+commit 1928f5f60b475b43ff2228bef9975edfdb98669c
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 00:47:58 2008 -0600
+
+    fix PATH for new location of libsmbios stuff.
+
+commit 4459792b409008b1ee0a6a2ceeca9c4d912f07de
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Jan 25 00:47:34 2008 -0600
+
+    add system id to name mapping config file.
+
+commit b8bc0e40b5347bb6a889359091160109a5a96ceb
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 24 10:21:13 2008 -0600
+
+    start actually adding extract stuff now.
+
+commit 08e99cca4dda7895f7c8bfc2d3984b3977b070e4
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Jan 24 01:05:25 2008 -0600
+
+    add more extractors and better shell out cmd that will log properly.
+
+commit 2f117a4b61017152405576f8af8e79764b0329b7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 23 23:11:34 2008 -0600
+
+    start reconstituing common function lib.
+
+commit f7ce41e4b78744852756ae20ca555710d4c40dad
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 23 01:01:15 2008 -0600
+
+    start adding back extractor using new api.
+
+commit 1775c2650ba8f2f49edfa3f61d9575cb105814df
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jan 23 01:00:33 2008 -0600
+
+    move old extractors to old/ for reference.
+
+commit afdaa31061646ca14002f276d5f15104cb1e7bb4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 15 11:28:01 2008 -0600
+
+    bump firmware-tools req to 2.0
+
+commit ed91da6246fffc1d94eee5d78be1be2f660b719f
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Jan 15 10:44:19 2008 -0600
+
+    add support for 2.0 api. update config file to 2.0 format.
+
+commit 1f65707b1db44ab2720481a3815d8876fe695429
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Dec 17 23:26:15 2007 -0600
+
+    setup.py: don't include empty /usr/bin directory in package
+
+commit 0af820b2aa2435327ea44f1fe806921a746d1363
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Dec 17 23:25:27 2007 -0600
+
+    ubuntu patch to avoid empty /usr/bin dir
+
+commit 2235c492b866c80893eb608346124ff7ce9e00cc
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Dec 17 23:25:01 2007 -0600
+
+    debian/changelog.in: initial release, today's date
+
+commit 8cff1a5d1df1ec40e7d11cf51d5b1e77b98c2db1
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sat Dec 15 22:19:56 2007 -0600
+
+    more debian/control cleanups per Debian Python Policy + python-support
+
+commit 526ad3d0434c3d847a731f822e3b8ced352df000
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Dec 10 09:51:46 2007 -0600
+
+    fix ubuntu versioning again
+
+commit e599b49bc683ddee89506f23fb96f11548077547
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sun Dec 9 22:45:20 2007 -0600
+
+    debian/changelog 1.4.10-1ubuntu1
+
+commit 4e357c0d8dc3a74525f29a73fae7173692d67fa2
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sun Dec 9 22:42:26 2007 -0600
+
+    add upstream patches from mailing list to debian builds
+
+commit 8e2e0793e0e831188eedc267a2987fdae57d608f
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sun Dec 9 22:38:42 2007 -0600
+
+    debian/control: Standards-Version: 3.7.3
+
+commit 7b4b0ff908b37cd9c7ed772625038ba909f9f113
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sun Dec 9 22:38:11 2007 -0600
+
+    add debian/watch
+
+commit 05603431f6230457f98ac673a7e112829c1aac50
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sun Dec 9 22:37:58 2007 -0600
+
+    add linda.overrides for yum-plugins directory warning
+
+commit a05d69e6c7b028d3e157965743048772b9d353ff
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Wed Dec 5 22:44:39 2007 -0600
+
+    make deb/sdeb: put results in dist/$(DIST), other Makefile cleanups
+    
+    Don't bother signing result of 'make deb'.  It's useless for us.
+    
+    When building, don't use the pkg/debian directory from the tarball,
+    use it from the git tree instead.  That way we don't have to rebuild
+    the tarball for minor debian/ file changes (like changelog).
+
+commit c26c4da2532d1fc41356efd17716ca66cc768f61
+Merge: b3dfb20... b27dc6a...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Nov 30 11:56:16 2007 -0600
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      getSystemId not always in path.
+
+commit b3dfb20522f1184e16beac1e76225e86a580ec54
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Fri Nov 30 11:54:31 2007 -0600
+
+    Ubuntu packaging cleanups.  Add DISTTAG=~gutsy1 to make deb and sdeb.
+
+commit b27dc6abca13075f0bd9f828bb74a686323bd1e8
+Merge: d1a2812... fa5699f...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Nov 29 20:57:26 2007 -0600
+
+    Merge branch 'master' of http://hb.us.dell.com/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of http://hb.us.dell.com/pub/Applications/git/firmware-addon-dell:
+      version bump
+      fix Makefile test for DIST= being set
+      don't forget to update setup.py for changelog.in
+      add manditory DIST= for deb and sdeb targets
+      don't install useless docs
+      update Open Software License text to version 3.0
+      add launchpad needs-packaging bug to changelog to autoclose
+      ubuntu packaging cleanups per REVU
+      debian/changelog: dist=hardy
+      debian/changelog version 1.4.9
+      remove debian/prerm and postinst again - they're auto-generated by python-support
+
+commit d1a2812eb36be753e20fde88182d32595bdaea7d
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Nov 29 20:56:45 2007 -0600
+
+    getSystemId not always in path.
+
+commit 540c8ef8315b99b376d0ecb32f6b6d96d59acfe0
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Wed Nov 28 11:35:44 2007 -0600
+
+    Makefile: fix make sdeb
+
+commit ca617afa852ee8e19ca920df16791c33ce030eea
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Wed Nov 28 11:21:18 2007 -0600
+
+    bump debian/changelog to match 1.4.10
+
+commit fa5699fba459369bc45b45bfbf62122521e96771
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Nov 28 10:35:22 2007 -0600
+
+    version bump
+
+commit 3e8dacb0e48c884e30f003642942d6e0590c357a
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sun Nov 25 23:13:31 2007 -0600
+
+    fix Makefile test for DIST= being set
+
+commit 7dcc0e0241e24c8c539c7f1f7ead89fd0fb39fc1
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sat Nov 24 21:34:14 2007 -0600
+
+    don't forget to update setup.py for changelog.in
+
+commit 12f0eddbb9feb71ab5d33c70108208f39ee628fc
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Sat Nov 24 21:25:04 2007 -0600
+
+    add manditory DIST= for deb and sdeb targets
+
+commit d6bf09a1a8855160a8a74898d053925b2143ecf5
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Fri Nov 23 09:38:03 2007 -0600
+
+    don't install useless docs
+
+commit c8b548681836580e08b371e1da31398d72007995
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Fri Nov 23 07:19:12 2007 -0600
+
+    update Open Software License text to version 3.0
+
+commit 7b0552cd25a73d5b8ed20819ff1e1a93a56cad83
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Tue Nov 20 22:56:07 2007 -0600
+
+    add launchpad needs-packaging bug to changelog to autoclose
+
+commit b38480ec8f2cc7aabe4bf5355f240d4f487d7002
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Tue Nov 20 13:30:52 2007 -0600
+
+    ubuntu packaging cleanups per REVU
+
+commit 41b4afb0c81a005b2bc14f1afbd388f6b8f60969
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Thu Nov 15 22:38:22 2007 -0600
+
+    debian/changelog: dist=hardy
+
+commit bf917aa44b838c89d80f3d0b707c2d87bd0efcc7
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Thu Nov 15 22:11:25 2007 -0600
+
+    debian/changelog version 1.4.9
+
+commit d3fc632fc042d49178d7ef6b153f0c8209ceca26
+Merge: 98b753e... e8c38dc...
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Nov 12 22:20:07 2007 -0600
+
+    Merge /var/ftp/pub/Applications/git/firmware-addon-dell
+
+commit e8c38dc98973af987c7ad373b6f450501164f47f
+Merge: 5f90057... 4fb2d2a...
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Oct 29 03:24:03 2007 -0500
+
+    Merge branch 'master' of http://hb.us.dell.com/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of http://hb.us.dell.com/pub/Applications/git/firmware-addon-dell:
+      copyright: make it (c) Dell Inc, remove intern Sadhana's defunct email address.
+      changelog: initial release for Ubuntu
+      use pbuilder, add 'make sdeb', cleanup debian/control
+      set DEB_RELEASE for Ubuntu
+      add debian/postinst (to byte-compile), prerm
+
+commit 5f900576ac287538bdcbf50ec8976e492eb002b7
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Oct 29 03:23:21 2007 -0500
+
+    version bump
+
+commit 1c6859031005c5a5f10d335686a5031ee5c7fccd
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Oct 29 03:22:58 2007 -0500
+
+    better status message for user so they know they need warm reboot.
+
+commit 98b753ec1ddad7f4163cef3b0b6cb158a460e80d
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Oct 15 17:14:02 2007 -0500
+
+    remove debian/prerm and postinst again - they're auto-generated by python-support
+
+commit 4fb2d2a29cf7566a3cd5da04037722f2b75813e3
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Oct 15 14:08:12 2007 -0500
+
+    copyright: make it (c) Dell Inc, remove intern Sadhana's defunct email address.
+
+commit 7734130519f7b3991593986fe669ad351c4916da
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Oct 15 13:30:58 2007 -0500
+
+    changelog: initial release for Ubuntu
+
+commit 6c019395c0717829c8d27bf76a226a99464c3e65
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Oct 15 13:30:29 2007 -0500
+
+    use pbuilder, add 'make sdeb', cleanup debian/control
+
+commit e5f6da17fe146c3cb54f6bf3e4b19c9fbdffe176
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Oct 15 13:29:10 2007 -0500
+
+    set DEB_RELEASE for Ubuntu
+
+commit 809e4e2c386f9f208f7d9064d5e48b44892a10c1
+Author: Matt Domsch <Matt_Domsch@dell.com>
+Date:   Mon Oct 15 13:28:29 2007 -0500
+
+    add debian/postinst (to byte-compile), prerm
+
+commit d75255903cc84495f00bb856e8b25208b77de8a1
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 23 16:25:58 2007 -0500
+
+    fix test for upgrade/downgrade override
+
+commit 3a6b2b7ab73cbc0da6e783ac730c381dccea04dd
+Merge: 45d702c... 69cde69...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 23 15:18:29 2007 -0500
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      version bump
+      requires new firmware-tools api, enforce in rpm.
+      add bios downgrade/reflash capabilities
+      update changelog
+
+commit 69cde69be9425f1bb578132766a9b26a71a830ea
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 23 15:06:55 2007 -0500
+
+    version bump
+
+commit 8cdae704f554b19771676c38ea027b1a92e58eed
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 23 15:06:43 2007 -0500
+
+    requires new firmware-tools api, enforce in rpm.
+
+commit e9bcd70f297c3f33ae404074d002b7fe1425f26e
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 23 15:04:43 2007 -0500
+
+    add bios downgrade/reflash capabilities
+
+commit 90992e1a4d7953998e2d1f7058cef82640d7e449
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Wed Aug 22 23:00:14 2007 -0500
+
+    update changelog
+
+commit 45d702c45be8d7ae68101088b7a70e5084806162
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Aug 22 14:06:59 2007 -0500
+
+    fix upload of offical tarballs
+
+commit 6e9e70ce7810f5de68443b46598b4100fcdb3720
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Aug 20 02:42:44 2007 -0500
+
+    new install function api.
+
+commit e23b4d77b876443c11bd682892108310d7870405
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Aug 20 00:50:22 2007 -0500
+
+    fix displayname for bmc
+
+commit 11a05563e0499bda9f59fd4fea7f785d1cfff0ee
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Aug 20 00:44:04 2007 -0500
+
+    version bump
+
+commit 8704da9be371bba1a06329c730e906c11e378ea5
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Mon Aug 20 00:43:36 2007 -0500
+
+    changes for API conformance.
+
+commit 56f2fd98f94be02e18ddffadf7d6b76c3d4e4286
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sat Aug 18 00:34:56 2007 -0500
+
+    version bump
+
+commit 4a346c370ba3c502e2ef9448476f1907aab69814
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sat Aug 18 00:34:13 2007 -0500
+
+    critical fix for system-specific bootstrap. module path changed.
+
+commit 606d28562261464d563e0ba692d958783d6ffc7f
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Sat Aug 18 00:12:39 2007 -0500
+
+    fix unit tests for displayname
+
+commit ba52eb8d4afb5b54c97aa286fcbbc8167471ead7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 22:47:24 2007 -0500
+
+    version bump
+
+commit 3dec5fcf7216c1ce575f3dc0cdd7f0a797d4410a
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Aug 17 22:43:59 2007 -0500
+
+    make sure to build from clean source tree.
+
+commit 4704589c82faccbb0ec1bdae3c2b8f2d2530f1f1
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri Aug 17 22:40:22 2007 -0500
+
+    fixed wrong name friendlyname -> displayname
+
+commit 70e7a64b522cebe9dff1a3bdb17177cdafe4fb9d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 17:49:03 2007 -0500
+
+    fix license for new fedora guidelines
+
+commit 909be1271490cb82cba4eea1e17fea434d6e3323
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 17:48:13 2007 -0500
+
+    fix modes
+
+commit 1df1625ec0d18c854ab6b3b0e5ec1e5dd9e1e33e
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 17:40:58 2007 -0500
+
+    change InstalledPackage to Device class
+
+commit 93ba1183224bccdb79838241d42788d9e5da5146
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 17:40:52 2007 -0500
+
+    change InstalledPackage to Device class
+
+commit a8a93bee77773faed97b2c91de106d915a44db14
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 17:40:28 2007 -0500
+
+    fix rpmlint non-executable script error
+
+commit 5ea1dd9ff1936d5e67b46a33a25bd0c37216340d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 15:06:40 2007 -0500
+
+    fix release script to use dist/ dir and push tags properly
+
+commit 98d09cca49e0deb924ff392f68b5f828972871e7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 15:06:20 2007 -0500
+
+    return a pretty display name for inventory
+
+commit 3643ba833dadee0b711c9143cb42516e8381da42
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 17 15:05:57 2007 -0500
+
+    add function to get system name. fix error output for service tag function
+
+commit 6a68e5a1d49cc002f0dd6187abac9403fd002f51
+Merge: 75585f5... 5d5fed1...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 13 03:12:54 2007 -0500
+
+    Merge branch 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell
+    
+    * 'master' of /var/ftp/pub/Applications/git/firmware-addon-dell:
+      move generated output rpm/tarballs into dist/
+
+commit 5d5fed1192857c0a25ddceaad433598b27066454
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Thu Aug 9 20:32:00 2007 -0500
+
+    move generated output rpm/tarballs into dist/
+
+commit 75585f5cfc60b50d678ee79ba22a63e13594d96b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 9 13:22:57 2007 -0500
+
+    prevent DUPs from trying to display anything in X
+
+commit cfef310accd31c562fab17395da6423016a99981
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 9 13:05:50 2007 -0500
+
+    version bump
+
+commit 210f0d286a8edc307eb1ef3acfec91c220cd25d7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 9 13:05:08 2007 -0500
+
+    fix typo from conversion to new-style pkg
+
+commit a72632618b5399c805f34619fbc13325c26ea058
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 9 12:05:48 2007 -0500
+
+    add git push to the release script after successful build.
+
+commit 38ac8c091c7f88bc50890f02a63fe13458babe58
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 9 12:05:02 2007 -0500
+
+    bump version
+
+commit 486a08f5af444f870b80bff8a1a67d00db35bf49
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Aug 9 10:24:46 2007 -0500
+
+    move extract plugins to their respective modules
+
+commit 83f9d9444de63eacbeead7a9d51b9e0fd2648cc4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Aug 8 02:38:04 2007 -0500
+
+    version bump
+
+commit 76818e38d79ed6ff73052794230c907350a408ca
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 7 16:36:53 2007 -0500
+
+    disable debuginfo package.
+
+commit 3edc003e73bb669a9f82ea78a9cc65e59b22d234
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 7 12:21:40 2007 -0500
+
+    version bump
+
+commit d1a5748664b68cdb419992eee4ecd0d10760388d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 7 12:21:35 2007 -0500
+
+    update config for new module path
+
+commit 2c1ac6be61567ab852750d33e8e98a07ccc650ea
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 7 00:27:38 2007 -0500
+
+    typo
+
+commit c19131433b24640644fcb28519bbda93d7ea3192
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 7 00:25:47 2007 -0500
+
+    new package path
+
+commit ef094dc1c0418763af885939511e7099f4a24981
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue Aug 7 00:25:32 2007 -0500
+
+    fix constructor to take *args, **kargs
+
+commit 4ea618fc715542801af6f3b3c7d1f7de441174c7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 6 22:46:58 2007 -0500
+
+    move to new-style
+
+commit f0de3b40109334e64852a47e8c387c556645114d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 6 20:15:22 2007 -0500
+
+    version bump
+
+commit 86249013fe3949a1ed7d11ac6535a5bd27174256
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 6 20:14:01 2007 -0500
+
+    add in __init__ file that is now required
+
+commit bb93e232f70529e64836c12e6a82b87da61cd1f7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon Aug 6 19:56:53 2007 -0500
+
+    change package to be firmware_addon_dell as that fits more nicely with how python packages should be packaged.
+
+commit 43668919e9ef4c06bcfbda501c2be04fad2e87b4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri Aug 3 12:10:36 2007 -0500
+
+    release script fixes.
+
+commit 4bcdce3faaf36ebfdfcea5009196996d6c5d1913
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu Jul 12 14:59:49 2007 -0500
+
+    remove refs to dell-hardware.conf
+
+commit 53f6271a9f9cc3ba44247b86985fa608d5c049d0
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jul 11 17:30:29 2007 -0500
+
+    remove up2date_repo_autoconf from version.mk as it no longer exists.
+
+commit 4bd34b11698c2d4f6a6af5e7ace1e0f9c79ecc9d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jul 11 15:46:52 2007 -0500
+
+    update upload_rpm.sh script for official release
+
+commit fc5fd168db3af01ab90b15e0ca19b54c886d519b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jul 11 15:46:33 2007 -0500
+
+    - remove up2date_repo_autoconf as it is no longer used.
+    - bump version to prep for next release.
+
+commit 45f979b02910f9311542119391d3d96dd8e72186
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed Jun 13 17:06:15 2007 -0500
+
+    add service tag adn repo config options to yum plugin
+
+commit adaa89ff897d0c3ff1c7909e0a54359d22ac2050
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu May 31 01:18:49 2007 -0500
+
+    add svm module to setup
+
+commit 1fdef31dd8d042a2de0bacf84ba3809bdea7ce50
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 23:55:48 2007 -0500
+
+    more tests -- multiple packages in svm inventory.
+
+commit 6b8701b228520a16bb88d13f31673b6d1c5fbc4d
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 23:47:25 2007 -0500
+
+    add parser for SVM XML output.
+
+commit d0b2b969ab31714fba3bff5edb1bdc125376d7eb
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:10:28 2007 -0500
+
+    add vim textwidth decl.
+
+commit 702af955efeac516e7a587faf595fd1e276c7ca3
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:09:46 2007 -0500
+
+    add vim textwidth decl.
+
+commit 179e323393ecbc09b42d2a0e87c21071ee0c6249
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:09:31 2007 -0500
+
+    add vim textwidth decl. Add more unit tests to illustrate advanced usage.
+
+commit d4ae0ad9df8d7ab29f0e92dbb96597a148d2e57c
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:07:17 2007 -0500
+
+    add tests for bios version comparison
+
+commit 2d2d969c1fc2bbc7e0c2f3ee2be0360a7780f213
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:06:33 2007 -0500
+
+    add textwidth vim declaration.
+
+commit 59f1e7dba1ee8606795a2209e7b68b779af1b9e0
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:06:17 2007 -0500
+
+    add textwidth vim declaration. fix compare function to match system 'strnlen' output.
+
+commit ee8fba99f6a32cedba8227eb3a585566c6b2d319
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 30 22:05:38 2007 -0500
+
+    add textwidth vim declaration.
+
+commit 40ef031f31b75ceb3f0c274b0a3401eb091a66e2
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 29 17:28:02 2007 -0500
+
+    remove extra whitespace
+
+commit 1cdf042a1f22752b0112b123f6c81ee8ee035450
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 29 17:08:27 2007 -0500
+
+    use autobuilder template build scripts.
+
+commit d6572a9e159fd516d3f9c76164db975928ba7a34
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu May 24 17:05:26 2007 -0500
+
+    add makefile to tarball
+
+commit e70163364c9e483fca8562bc30c607bbcf200272
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu May 24 17:03:46 2007 -0500
+
+    clean up leftover, generated files from build
+
+commit ca7fbbb7a1e8765765c5613e52eb7c753f860891
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu May 24 17:02:57 2007 -0500
+
+    update autobuilder to produce debs with correct versioning information
+
+commit 006d1d8da4324e587fcaf64ec91768eb0b018a91
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Thu May 24 10:39:50 2007 -0500
+
+    uniform umask. Uniform 'set -e' enable after source version.mk. Use common code for plague submission.
+
+commit 593e8dccb8cbeef255c39d1c2d5b03475e861be2
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 23 17:21:55 2007 -0500
+
+    finish fixing everything to move to firmwaretools package. bump version to 1.3.0
+
+commit 783864c31aac1e09d84638a7f37b28e05d67a7d4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 23 14:58:53 2007 -0500
+
+    move modules to firmwaretools package
+
+commit 30244c42bfe1c6dc3eda491b344043fc97d52c0f
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 23 01:27:08 2007 -0500
+
+    add umask so all repo files are group writeable
+
+commit 0a7055a8493a2f5902f8f7e6f1f80400e65739fe
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 22 17:48:46 2007 -0500
+
+    relax error checking when importing version.mk as it has non-shell stuff in it (harmless)
+
+commit 512baa94dd670643dd70bea0b25eac3d0af56b32
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 22 16:33:15 2007 -0500
+
+    update firmware-addon-dell build/autobuild scripts per firmware-tools templates
+
+commit 78cef044f03bce69cf3264050b89664bcf6cd73b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 22 15:59:22 2007 -0500
+
+    update autobuilder scripts per firmware-tools template
+
+commit d0deff554421dbfe339652b4562b3853a8d8874d
+Merge: e30d96a... 9c8eae3...
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 21 14:25:48 2007 -0500
+
+    Merge branch 'master' of http://hb.us.dell.com/pub/Applications/git/firmware-addon-dell
+
+commit e30d96a8e85e2225637bbc165045d50e248a2e00
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Mon May 21 14:25:08 2007 -0500
+
+    add autobuild hooks
+
+commit 9c8eae389ad1d422275fb60983f1bb76891f35b7
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Fri May 18 13:51:44 2007 -0500
+
+    firmware-addon-dell should be 'arch: all' for now.
+
+commit 2896e6854b5b416fbdec4476f289023221f27084
+Author: Michael E Brown <mebrown@michaels-house.net>
+Date:   Fri May 18 00:06:56 2007 -0500
+
+    update copyrights and readme for OSL3 and gpl text
+
+commit 111dd04264e4f8eff43b6a2ddccae8c8113f4c8e
+Author: Sadhana B <Sadhana_B@dell.com>
+Date:   Thu May 17 19:12:39 2007 +0530
+
+    Update debian packaging per review comments.
+    
+        Incorporated review comments from Martin Pitt from Ubuntu
+    
+    Signed-off-by: Michael E Brown <michael_e_brown@dell.com>
+
+commit 9c7f6c7c94263eeae197c8f4c4e650cd3aff9a42
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 16 10:10:47 2007 -0500
+
+    bugfix: rpm_release was improperly replaced with sub.
+
+commit 76fd93134505cddb8013319cece267e1a54c29a4
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 16 01:07:22 2007 -0500
+
+    update debian build rules to synchronize makefiles between firmware-tools and firmware-addon-dell
+    
+    Makefiles are now identical.
+
+commit 90bc51b095dafe690f6634a6cfc79307445f494c
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Wed May 16 00:09:57 2007 -0500
+
+    Update debian build files per sadhanas latest patch. Use cdbs build system.
+
+commit cfa2f7dae48a75a80b00587005d7a85cc0e6497b
+Author: Michael E Brown <michael_e_brown@dell.com>
+Date:   Tue May 15 13:30:34 2007 -0500
+
+    Initial commit, import from clearcase
